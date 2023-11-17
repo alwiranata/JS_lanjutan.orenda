@@ -37,7 +37,7 @@
   
 // </div>`;
 
-//3.conditions
+// 3.conditions
 // const lagu = {
 //   judul : 'apa',
 //   singer : 'who?',

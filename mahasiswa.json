@@ -1,0 +1,16 @@
+[
+    {
+        "nama": "aldo",
+        "nrp": "910910",
+        "email": "al@gmail.com",
+        "Jurusan": "teknik industri",
+        "Id": 2
+    },
+    {
+        "nama": "alos",
+        "nrp": "91091000",
+        "email": "als@gmail.com",
+        "Jurusan": "teknik ao",
+        "Id": 3
+    }
+]
